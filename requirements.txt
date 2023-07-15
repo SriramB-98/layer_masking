@@ -1,0 +1,10 @@
+torch
+timm
+pandas
+numpy
+scikit-learn
+torchvision
+scikit-image==0.19.3
+matplotlib
+lime
+jupyter
